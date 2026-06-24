@@ -14,7 +14,7 @@
 
 | Portfolio | Period | Description | Link |
 | :--- | :--- | :--- | :---: |
-| **Chips Master Program(CMP)** | 2026.04 ~ 2027.01 | Optimized 20nm DRAM process to minimize GIDL leakage. | [🔗](https://github.com/minho031207/CMP_Project) |
+| **Chips Master Program(CMP)** | 2026.04 ~ 2027.01 | Optimized 20nm DRAM process to minimize GIDL leakage. | [🔗](https://github.com/minho031207/CMP) |
 | **Semiconductor Integrated Process** | 2026.04 ~ 2026.06 | Optimized NMOS characteristics for automotive semiconductor applications. | [🔗](https://github.com/minho031207/Semiconductor_Process) |
 | **Digital Logic Circuits** | 2026.04 ~ 2026.06 | Designed a traffic signal controller using Vivado and Verilog. | [🔗](https://github.com/minho031207/Digital_Logic) |
 | **SSU Datathon 2025** | 2025.12 - 2026.01 | A Data-Driven Trend Analysis of 60,000+ Research Papers. | [🔗](https://github.com/minho031207/Datathon) |
