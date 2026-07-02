@@ -19,5 +19,7 @@
 | **Digital Logic Circuits** | 2026.04 ~ 2026.06 | Designed a traffic signal controller using Vivado and Verilog. | [🔗](https://github.com/minho031207/Digital_Logic) |
 | **SSU Datathon 2025** | 2025.12 - 2026.01 | A Data-Driven Trend Analysis of 60,000+ Research Papers. | [🔗](https://github.com/minho031207/Datathon) |
 
+추가할거 - 학회가서 발표한거 사진하고 자료 / ai학습법 경진대회 과정하고 산출물, 시연영상 (상현이형하고 같이) / 캡스톤융합팀 설계과정 
+
 ---
 > **참고:** [🔗] 아이콘을 클릭하면 각 프로젝트의 상세 저장소로 이동합니다.
